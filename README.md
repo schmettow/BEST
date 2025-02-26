@@ -1,2 +1,2 @@
 # BEST
-Standalone conversation tagging using sensors and machine learning
+This repository contains prototyping code for standalone conversation tagging using sensors and machine learning.
