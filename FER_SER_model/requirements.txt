@@ -1,0 +1,10 @@
+opencv-python==4.8.0.76 
+pandas==2.1.2 
+numpy==1.23.5 
+pyaudio==0.2.14 
+matplotlib 
+torch 
+deepface==0.0.79 
+transformers 
+scipy 
+tensorflow==2.13.0 
